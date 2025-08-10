@@ -1,0 +1,4 @@
+Bomba,Caudal (m3/h),Altura (m),Eficiencia (%),NPSH (m),Potencia (kW)
+Bomba A,50,60,78,3.5,15
+Bomba A,100,55,82,4.0,20
+Bomba B,80,70,75,4.5,25
